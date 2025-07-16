@@ -17,7 +17,7 @@ module.exports = {
     
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     
-    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "MEGALODON-MD",  // Bot's display name
+    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "MEGALODON~MD~cNx3BYKK#MpwCmiz7OJ19IB697cuuoMkI5UxiNhc-Dq5Nh6IHivk",  // Bot's display name
     
     MODE: process.env.MODE || "public",        // Bot mode: public/private/group/inbox
 
